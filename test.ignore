@@ -1,0 +1,14 @@
+.git
+.dockerignore
+.rockertmp*
+.terraform
+compose*
+dist
+id_rsa
+node_modules
+Rockerfile*
+settings*_local.js
+test_results
+*.md
+lint-reports
+lint-report.xml
